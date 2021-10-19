@@ -1,1 +1,3 @@
-let intro = ['knock knock', 'what do you call a blind deer?']
+let toDo = [];
+let time = [];
+let why = [];
